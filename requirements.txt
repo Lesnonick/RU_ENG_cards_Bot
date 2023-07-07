@@ -1,0 +1,5 @@
+telebot
+random
+psycopg2
+requests
+logging
